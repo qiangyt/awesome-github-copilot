@@ -38,6 +38,7 @@ Official Links from GitHub on Copilot
 
 - [cpwrap - CoPilot plugin for any shell program](https://github.com/MarkMendell/cpwrap)
 - [CopilotForXcode - The missing Github Copilot Xcode Source Editor Extension](https://github.com/intitni/CopilotForXcode)
+- [batchai - A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes](https://github.com/qiangyt/batchai)
 
 ## Articles
 
